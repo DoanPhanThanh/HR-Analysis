@@ -1,4 +1,4 @@
-# HR-Analysis
+# HR_Analytics
 
 ## Introduction
 Project to reduce the attrition rates, the report suggested implementing solutions such as offering training and development programs, improving communication and leadership, and adjusting compensation.
