@@ -1,7 +1,7 @@
 # HR_Analytics
 
 ## Introduction
-The report recommends addressing attrition rates by adjusting HR policies, benefits, and training, introducing mentorship programs, and conducting feedback surveys to create a positive work environment and increase employee satisfaction and loyalty for a more productive workforce.
+An analytics project was initiated to delve into employee attrition rates, pinpoint the factors influencing attrition, and propose solutions to decrease it. The project encompassed various stages such as scoping, data collection and cleansing, visualization using the Power BI tool, reporting findings, solution implementation, and result monitoring.
 
 ## Aim - To analyse the IBM HR Dataset
 - To prepare and clean the data
