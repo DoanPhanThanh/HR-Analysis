@@ -1,7 +1,8 @@
 # HR_Analytics
 
 ## Introduction
-An analytics project was initiated to delve into employee attrition rates, pinpoint the factors influencing attrition, and propose solutions to decrease it. The project encompassed various stages such as scoping, data collection and cleansing, visualization using the Power BI tool, reporting findings, solution implementation, and result monitoring.
+
+An analytics project was initiated to delve into employee attrition rates, identify the factors influencing attrition, and propose solutions to decrease it. The project encompassed various stages such as scoping, data collection and cleansing, visualization using the Power BI tool, reporting findings, solution implementation, and result monitoring.
 
 ## Aim - To analyse the IBM HR Dataset
 - To prepare and clean the data
