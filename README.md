@@ -1,7 +1,7 @@
 # HR_Analytics
 
 ## Introduction
-Project to reduce the attrition rates, the report suggested implementing solutions such as offering training and development programs, improving communication and leadership, and adjusting compensation.
+The report recommends addressing attrition rates by adjusting HR policies, benefits, and training, introducing mentorship programs, and conducting feedback surveys to create a positive work environment and increase employee satisfaction and loyalty for a more productive workforce.
 
 ## Aim - To analyse the IBM HR Dataset
 - To prepare and clean the data
